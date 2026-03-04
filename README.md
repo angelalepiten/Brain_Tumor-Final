@@ -21,3 +21,5 @@ cd Brain_Tumor_Final
 
 # Install dependencies
 pip install -r requirements.txt
+
+python api.py  # Run the API
